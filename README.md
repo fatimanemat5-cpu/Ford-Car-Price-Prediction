@@ -13,5 +13,5 @@ This project predicts the price of used Ford cars using Machine Learning.
    * Scikit-Learn
 
  ## Model
-    * Linear Regression
+  * Linear Regression
 
